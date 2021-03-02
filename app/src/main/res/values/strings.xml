@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Helmet</string>
+    <string name="latitudeBabel">Latitude</string>
+    <string name="longitudeBabel">Longitude</string>
+    <string name="permission_denied_explanation">Permission denied</string>
+    <string name="settings">settings</string>
+</resources>
